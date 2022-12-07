@@ -82,7 +82,7 @@ Idioma:
 
 [Geoespacial](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/geoespacial)
 
-[Tela do celular](https://docs.google.com/document/d/13KP7L24ZLL4GnggWlBgeC5yR8HOVxHEmUmh0TzXy_7g/edit?usp=sharing)
+[Tela do celular](https://github.com/August0pedroso/Portfolio-Tecnico/issues/2)
 
 ### Terceiro Trimestre
 
