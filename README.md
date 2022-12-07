@@ -54,7 +54,7 @@ Idioma:
 
 [Exemplo_3](/portifolio2b)
 
-[Exemplo_2](/portifolio2b.java)
+[Exemplo_2](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/ex2l)
 
 # Portifolio Segundo  e Terceiro Ano 
 
