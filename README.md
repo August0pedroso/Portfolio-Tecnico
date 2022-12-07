@@ -66,12 +66,7 @@ Idioma:
 
 [Atividade função](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/funcao)
 
-[Fixação de funções](https://github.com/Patrickcovre/Patrickcovre/blob/main/Banco%20de%20Dados/Atividade%20de%20fixação%20Funções)
-
 [Museu](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/museu)
-
-[Cadastro Segundo Trimestre](https://github.com/Patrickcovre/Patrickcovre/files/10175484/Cadastro.2.zip)
-
 
 # Modelagem de Sistemas
 
