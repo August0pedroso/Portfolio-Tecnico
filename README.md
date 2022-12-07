@@ -78,7 +78,7 @@ Idioma:
 
 # Programação de Aplicativos
   
-[Teste SA (ainda nao terminei)](https://github.com/Patrickcovre/Patrickcovre/blob/main/Teste%20SA%20(ainda%20nao%20terminei)/Codigo)
+[Teste SA (ainda nao terminei)](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/TESTE%20SA)
 
 [Geoespacial](https://github.com/Patrickcovre/Patrickcovre/blob/main/Programção%20de%20aplicativo/Geoespacial)
 
