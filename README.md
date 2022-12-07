@@ -93,16 +93,16 @@ Idioma:
 
 ### Terceiro Trimestre
 
-## Prof.Ana
+## Ana
 [sitefinal.zip](https://github.com/Patrickcovre/Patrickcovre/files/10175298/sitefinal.zip)
   ## Autoria
   [Mundo senai](https://docs.google.com/document/d/1w5b8odfC-xMFZ9GxgGF1cpyHjsT5rEkDUnaWEfRdg-o/edit?usp=sharing)
 
-## Prof.Jackson
+## Jackson - JAVAKSON
 https://docs.google.com/document/d/101WHVhavz1wNVRbEwk5GjqMGtVrFOALkfXd23-kne0s/edit?usp=sharing
   # autoria
   [Autoria site do portifolio final](https://github.com/Patrickcovre/Patrickcovre/blob/main/Autoria)
   
-### Se liga no jogo da cobrinha fi. 
+### BIP BOP. 
 ![Snake animation](https://github.com/Patrickcovre/Patrickcovre/blob/output/github-contribution-grid-snake.svg)
 
