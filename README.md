@@ -87,12 +87,12 @@ Idioma:
 ### Terceiro Trimestre
 
 ## Ana
-[sitefinal.zip](https://github.com/Patrickcovre/Patrickcovre/files/10175298/sitefinal.zip)
+ [FILE.E](https://drive.google.com/file/d/1j0AcLPpDYB8p54Nr1gdnVn3rAu4t9KMN/view)
   ## Autoria
-  [Mundo senai](https://docs.google.com/document/d/1w5b8odfC-xMFZ9GxgGF1cpyHjsT5rEkDUnaWEfRdg-o/edit?usp=sharing)
-
+  [Mundo senai](https://www.figma.com/file/5Dem6bX5C0taIKYcoVvAZy/MUNDO_SENAI?node-id=0%3A1)
+ 
 ## Jackson - JAVAKSON
-https://docs.google.com/document/d/101WHVhavz1wNVRbEwk5GjqMGtVrFOALkfXd23-kne0s/edit?usp=sharing
+[atividade 8 de abril].(https://docs.google.com/document/d/101WHVhavz1wNVRbEwk5GjqMGtVrFOALkfXd23-kne0s/edit?usp=sharing)
   # autoria
   [Autoria site do portifolio final](https://github.com/Patrickcovre/Patrickcovre/blob/main/Autoria)
   
