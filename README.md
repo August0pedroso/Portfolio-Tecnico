@@ -64,7 +64,7 @@ Idioma:
 
 # Banco de Dados
 
-[Atividade função](https://github.com/Patrickcovre/Patrickcovre/blob/main/Banco%20de%20Dados/Atividade%20funções.sql)
+[Atividade função](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/funcao)
 
 [Fixação de funções](https://github.com/Patrickcovre/Patrickcovre/blob/main/Banco%20de%20Dados/Atividade%20de%20fixação%20Funções)
 
