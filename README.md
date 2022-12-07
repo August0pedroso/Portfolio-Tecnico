@@ -80,7 +80,7 @@ Idioma:
   
 [Teste SA (ainda nao terminei)](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/TESTE%20SA)
 
-[Geoespacial](https://github.com/Patrickcovre/Patrickcovre/blob/main/Programção%20de%20aplicativo/Geoespacial)
+[Geoespacial](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/geoespacial)
 
 [Tela do celular](https://docs.google.com/document/d/13KP7L24ZLL4GnggWlBgeC5yR8HOVxHEmUmh0TzXy_7g/edit?usp=sharing)
 
