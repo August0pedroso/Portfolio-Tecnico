@@ -45,8 +45,7 @@ Idioma:
 ## Fundamentos t.i
 [Exemplo_1](https://github.com/August0pedroso/Portfolio-Tecnico/edit/main/ex1)
 
-[Exemplo_2](/avaliacao13)
-
+[Exemplo_2](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/ex2)
 
 [Exemplo_3](/provati.sh)
 
