@@ -92,7 +92,7 @@ Idioma:
   [Mundo senai](https://www.figma.com/file/5Dem6bX5C0taIKYcoVvAZy/MUNDO_SENAI?node-id=0%3A1)
  
 ## Jackson - JAVAKSON
-[atividade 8 de abril].(https://docs.google.com/document/d/101WHVhavz1wNVRbEwk5GjqMGtVrFOALkfXd23-kne0s/edit?usp=sharing)
+[Introdução à Implantação de Sistema](https://docs.google.com/document/d/101WHVhavz1wNVRbEwk5GjqMGtVrFOALkfXd23-kne0s/edit?usp=sharing)
   # autoria
   [Autoria site do portifolio final](https://github.com/Patrickcovre/Patrickcovre/blob/main/Autoria)
   
