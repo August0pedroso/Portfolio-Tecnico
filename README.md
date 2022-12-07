@@ -50,11 +50,11 @@ Idioma:
 [Exemplo_3](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/ex3)
 
 ## Lógica Computacional
-[Exemplos_script_1](logicacomputacional/exmplos.java)
+[Exemplo_1](logicacomputacional/exmplos.java)
 
-[Exemplos_script_3](/portifolio2b)
+[Exemplo_3](/portifolio2b)
 
-[Exemplos_script_2](/portifolio2b.java)
+[Exemplo_2](/portifolio2b.java)
 
 # Portifolio Segundo  e Terceiro Ano 
 
