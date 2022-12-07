@@ -43,14 +43,13 @@ Idioma:
 
 # Portifolio Primeiro Ano
 ## Fundamentos t.i
-[Exemplos_script_1](https://github.com/August0pedroso/Portfolio-Tecnico/edit/main/Trabalhos)
+[Exemplo_1]https://github.com/August0pedroso/Portfolio-Tecnico/edit/main/ex1)
+
+[Exemplo_2](/avaliacao13)
 
 
-[Exemplos_script_2](/avaliacao13)
+[Exemplo_3](/provati.sh)
 
-
-
-[Exemplos_script_3](/provati.sh)
 ## Lógica Computacional
 [Exemplos_script_1](logicacomputacional/exmplos.java)
 
