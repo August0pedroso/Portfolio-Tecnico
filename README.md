@@ -43,7 +43,7 @@ Idioma:
 
 # Portifolio Primeiro Ano
 ## Fundamentos t.i
-[Exemplo_1]https://github.com/August0pedroso/Portfolio-Tecnico/edit/main/ex1)
+[Exemplo_1](https://github.com/August0pedroso/Portfolio-Tecnico/edit/main/ex1)
 
 [Exemplo_2](/avaliacao13)
 
