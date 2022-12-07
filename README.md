@@ -59,7 +59,7 @@ Idioma:
 # Portifolio Segundo  e Terceiro Ano 
 
 # Curriculo 
-[Curriculo](https://github.com/Patrickcovre/Patrickcovre/blob/main/Curriculo/fotc.png)
+[Curriculo](https://github.com/August0pedroso/Portfolio-Tecnico/issues/1)
 
 
 # Banco de Dados
