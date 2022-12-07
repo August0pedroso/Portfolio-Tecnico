@@ -50,7 +50,7 @@ Idioma:
 [Exemplo_3](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/ex3)
 
 ## Lógica Computacional
-[Exemplo_1](logicacomputacional/exmplos.java)
+[Exemplo_1](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/ex1l)
 
 [Exemplo_3](/portifolio2b)
 
