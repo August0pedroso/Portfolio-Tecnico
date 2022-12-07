@@ -40,3 +40,69 @@ Idioma:
 - <a href="https://instagram.com/azevedo_gusto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 - <a href = "mailto:augustoaze09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
+
+# Portifolio Primeiro Ano
+## Fundamentos t.i
+[Exemplos_script_1](fundamentosti/avaliaçaopratica)
+
+
+[Exemplos_script_2](/avaliacao13)
+
+
+
+[Exemplos_script_3](/provati.sh)
+## Lógica Computacional
+[Exemplos_script_1](logicacomputacional/exmplos.java)
+
+[Exemplos_script_3](/portifolio2b)
+
+[Exemplos_script_2](/portifolio2b.java)
+
+# Portifolio Segundo  e Terceiro Ano 
+
+# Curriculo 
+[Curriculo](https://github.com/Patrickcovre/Patrickcovre/blob/main/Curriculo/fotc.png)
+
+
+# Banco de Dados
+
+[Atividade função](https://github.com/Patrickcovre/Patrickcovre/blob/main/Banco%20de%20Dados/Atividade%20funções.sql)
+
+[Fixação de funções](https://github.com/Patrickcovre/Patrickcovre/blob/main/Banco%20de%20Dados/Atividade%20de%20fixação%20Funções)
+
+[Museu](https://github.com/Patrickcovre/Patrickcovre/blob/main/Banco%20de%20Dados/Museu.sql)
+
+  [Cadastro Segundo Trimestre](https://github.com/Patrickcovre/Patrickcovre/files/10175484/Cadastro.2.zip)
+
+
+# Modelagem de Sistemas
+
+[Avaliação](https://github.com/Patrickcovre/Patrickcovre/blob/main/Modelagem%20de%20Sistemas/Modelagem%20de%20Sistemas%20(Avaliação))
+
+[Herança](https://docs.google.com/document/d/1Bzom3lwLUS7gpPwTne_Yd_BRKWY-xxWMPwqLnio9Nbc/edit?usp=sharing)
+
+[Figma](https://www.figma.com/file/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=103%3A2)
+
+# Programação de Aplicativos
+  
+[Teste SA (ainda nao terminei)](https://github.com/Patrickcovre/Patrickcovre/blob/main/Teste%20SA%20(ainda%20nao%20terminei)/Codigo)
+
+[Geoespacial](https://github.com/Patrickcovre/Patrickcovre/blob/main/Programção%20de%20aplicativo/Geoespacial)
+
+[Tela do celular](https://docs.google.com/document/d/13KP7L24ZLL4GnggWlBgeC5yR8HOVxHEmUmh0TzXy_7g/edit?usp=sharing)
+
+### Terceiro Trimestre
+
+## Prof.Ana
+[sitefinal.zip](https://github.com/Patrickcovre/Patrickcovre/files/10175298/sitefinal.zip)
+  ## Autoria
+  [Mundo senai](https://docs.google.com/document/d/1w5b8odfC-xMFZ9GxgGF1cpyHjsT5rEkDUnaWEfRdg-o/edit?usp=sharing)
+
+## Prof.Jackson
+https://docs.google.com/document/d/101WHVhavz1wNVRbEwk5GjqMGtVrFOALkfXd23-kne0s/edit?usp=sharing
+  # autoria
+  [Autoria site do portifolio final](https://github.com/Patrickcovre/Patrickcovre/blob/main/Autoria)
+  
+### Se liga no jogo da cobrinha fi. 
+![Snake animation](https://github.com/Patrickcovre/Patrickcovre/blob/output/github-contribution-grid-snake.svg)
+
