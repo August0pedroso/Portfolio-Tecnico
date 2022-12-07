@@ -47,7 +47,7 @@ Idioma:
 
 [Exemplo_2](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/ex2)
 
-[Exemplo_3](/provati.sh)
+[Exemplo_3](https://github.com/August0pedroso/Portfolio-Tecnico/blob/main/ex3)
 
 ## Lógica Computacional
 [Exemplos_script_1](logicacomputacional/exmplos.java)
